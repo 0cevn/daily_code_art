@@ -11,8 +11,6 @@ function preload() {
 }
 
 function setup() {
-  
-  
   let windowRatio = windowWidth / windowHeight;
   let imageRatio = img.width / img.height;
   
